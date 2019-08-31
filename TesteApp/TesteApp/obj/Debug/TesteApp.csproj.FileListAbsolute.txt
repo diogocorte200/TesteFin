@@ -1,0 +1,7 @@
+C:\Users\diogo\source\repos\TesteApp\TesteApp\bin\Debug\TesteApp.exe.config
+C:\Users\diogo\source\repos\TesteApp\TesteApp\bin\Debug\TesteApp.exe
+C:\Users\diogo\source\repos\TesteApp\TesteApp\bin\Debug\TesteApp.pdb
+C:\Users\diogo\source\repos\TesteApp\TesteApp\obj\Debug\TesteApp.csprojAssemblyReference.cache
+C:\Users\diogo\source\repos\TesteApp\TesteApp\obj\Debug\TesteApp.csproj.CoreCompileInputs.cache
+C:\Users\diogo\source\repos\TesteApp\TesteApp\obj\Debug\TesteApp.exe
+C:\Users\diogo\source\repos\TesteApp\TesteApp\obj\Debug\TesteApp.pdb
